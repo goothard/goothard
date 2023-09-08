@@ -1,3 +1,11 @@
+<h1 align="center"> Привет, меня зовут <a href="https://www.linkedin.com/in/artem-kir/ target="_blank">Артем</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">QA Engineer 🇷🇺</h3>
+
+
+
+
+
 Социальные сети:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
